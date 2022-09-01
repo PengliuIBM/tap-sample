@@ -1,8 +1,5 @@
 ##!/bin/sh
-
-###Created by Jeffrey Wang, VMWare.
-###Date: 2022.08
-
+ 
 ###Assumpiton: Carvel imgpkg cli been installed on host script will run on.
 ###Assumption: docker login source registry been successfully done on host script will run on
 ###Assumption: docker loign destination registry been successfully done on host script will run on.
