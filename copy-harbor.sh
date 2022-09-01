@@ -1,5 +1,6 @@
 ##!/bin/sh
- 
+
+## from Jeffrey Wang @VMware
 ###Assumpiton: Carvel imgpkg cli been installed on host script will run on.
 ###Assumption: docker login source registry been successfully done on host script will run on
 ###Assumption: docker loign destination registry been successfully done on host script will run on.
